@@ -1,0 +1,6 @@
+asyncio
+aiogram
+dotenv
+time
+bs4
+selenium
